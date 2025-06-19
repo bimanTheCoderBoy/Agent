@@ -1,0 +1,12 @@
+langchain
+openai
+langchain_openai
+langchain_core
+langchain_community
+python-dotenv
+langchain_openai
+tavily-python
+langchain-tavily
+dotenv
+langchain-tavily
+langgraph
